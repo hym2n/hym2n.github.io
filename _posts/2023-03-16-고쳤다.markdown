@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "git로그인고쳤다"
+date:   2023-03-16 17:22:00 +0900
+categories: jekyll update
+---
+고쳤습니다.
+깔깔
